@@ -1,6 +1,6 @@
 using System;
 
-namespace Ödev1
+namespace stringSearching
 {
     class Program
     {
