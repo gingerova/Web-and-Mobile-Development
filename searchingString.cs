@@ -4,7 +4,7 @@ namespace stringSearching
 {
     class Program
     {
-        static string str, devam;
+        static string str;
         static int noktaSayisi = 0;
         static void Main(string[] args)
         {
